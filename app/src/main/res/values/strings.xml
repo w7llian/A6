@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Facturacion</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="textView2">AGREGAR PRODUCTO</string>
+    <string name="textView3">Nombre</string>
+    <string name="textView4">Modelo</string>
+    <string name="textView5">Codigo</string>
+    <string name="textView6">Stock</string>
+    <string name="textView7">Precio</string>
+    <string name="editText7">Codigo</string>
+    <string name="editText6">Modelo</string>
+    <string name="editText9">Nombre</string>
+    <string name="editText10">Stock</string>
+    <string name="editText11">Precio</string>
+    <string name="button11">Guardar</string>
+
+    <string name="textView24">HISTORIAL DE PEDIDOS</string>
+    <string name="texto">Nombre del cliente</string>
+    <string name="textView50">Nombre</string>
+    <string name="textView16">Fecha</string>
+    <string name="textView15">Total</string>
+
+    <string name="textView27">INICIO</string>
+    <string name="textView29">Novedades</string>
+    <string name="textView30" translatable="false">Laptop Lenovo Core i5</string>
+    <string name="textView31">Precio   1900.00</string>
+    <string name="textView32">Audifonos PHILIPS</string>
+    <string name="textView33">Precio   60.00</string>
+    <string name="textView34">Disco duro TOSHIBA</string>
+    <string name="textView35">Precio   190.00</string>
+
+    <string name="editText">Usuario</string>
+    <string name="editText2">Contraseña</string>
+    <string name="button3">INGRESAR</string>
+
+    <string name="textView51">Tu pedido ha sido realizado con exito</string>
+    <string name="button6">IR A INICIO</string>
+
+    <string name="textView52">REALIZAR PEDIDO</string>
+    <string name="textView53">Codigo</string>
+    <string name="textView54">Nombre</string>
+    <string name="textView55">Fecha</string>
+    <string name="editText50">Codigo</string>
+    <string name="editText51">Nombre</string>
+    <string name="editText52">Fecha</string>
+    <string name="textView56">Producto</string>
+    <string name="textView57">Cantidad</string>
+    <string name="textView58">Precio</string>
+    <string name="button5">GUARDAR</string>
+
+
+    <string name="nav_camera">Inicio</string>
+    <string name="nav_gallery">Realizar Pedido</string>
+    <string name="nav_slideshow">Historial de pedidos</string>
+    <string name="nav_manage">Agregar producto</string>
+    <string name="nav_share">Login</string>
+    <string name="cuentas">Cuentas</string>
+
+
+
+</resources>

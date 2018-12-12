@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>Codigo</item>
+        <item>Nombre</item>
+        <item>Fecha</item>
+        <item>Precio</item>
+    </string-array>
+</resources>

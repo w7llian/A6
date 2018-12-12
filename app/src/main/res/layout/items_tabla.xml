@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:minHeight="30dp"
+        android:layout_height="50dp"
+        android:weightSum="1"
+        android:gravity="center_vertical|center_horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="----"
+            android:background="@drawable/marcotabla"
+            android:id="@+id/lblCodigo"
+            android:textSize="15sp"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_weight="0.25"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="----"
+            android:textSize="15sp"
+            android:background="@drawable/marcotabla"
+            android:id="@+id/lblNombre"
+            android:layout_weight="0.25"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="----"
+            android:textSize="15sp"
+            android:background="@drawable/marcotabla"
+            android:id="@+id/lblFecha"
+            android:layout_weight="0.25"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="----"
+            android:textSize="15sp"
+            android:background="@drawable/marcotabla"
+            android:id="@+id/lblTotal"
+            android:layout_weight="0.25"
+            android:gravity="center_vertical|center_horizontal"/>
+
+    </LinearLayout>
+
+</LinearLayout>
